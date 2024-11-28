@@ -1,8 +1,8 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #2A3335;
-    color: #fff;
+    /* background-color: #2A3335; */
+    /* color: #fff; */
    
 }
 
@@ -14,9 +14,9 @@ body{
 .box{
     width: 350px;
     height: 250px;
-    border: 1px solid #fff;
+    /* border: 1px solid #000; */
     border-radius: 7px;
-    transition: all ease-in-out 0.4s;
+    transition: all ease-in-out 0.1s;
 }
 
 .inputbox{
@@ -29,7 +29,7 @@ body{
     padding: 7px 0px;
     margin-top: 5px;
     border-radius: 5px;
-    border: none;
+    /* border: none; */
     outline: none;
 }
 
